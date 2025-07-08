@@ -1,3 +1,5 @@
+import getpass
+
 def verificar_adivinanza(numero_secreto, intento):
     """Devuelve una pista según la diferencia entre el intento y el número secreto."""
     if intento < numero_secreto:
@@ -17,13 +19,8 @@ print("✅ Pruebas unitarias superadas.")
 # ===== Juego interactivo con múltiples rondas =====
 while True:
     try:
-        try:
-            import getpass
-            entrada = getpass.getpass("🔐 Ingresa el número secreto (oculto, máx 99): ")
-        except Exception:
-            print("⚠️ El entorno no soporta entrada oculta. Se usará entrada visible.")
-            entrada = input("Ingresa el número secreto (visible, máx 99): ")
-
+        # Ingreso oculto del número secreto
+        entrada = getpass.getpass("🔐 Ingresa el número secreto (oculto, máx 99): ")
         numero_secreto = int(entrada)
 
         if numero_secreto > 99 or numero_secreto < 0:
