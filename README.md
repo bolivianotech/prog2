@@ -1,8 +1,8 @@
 # prog2 - DOCENTE
 1. Los magios
-2.            YERI TORRICO RIBERA
+2.            YERy TORRICO RIBERA
 3.            SALOMON LEON PESOA
-4.            LIMBER QUISPE
+4.            LIMBER QUISPE Osco
 5.            DANIEL ALANES CACERES
 6.            BEYMAR FERRUFINO PEREDO
 7.            CARLOS CABELLO
