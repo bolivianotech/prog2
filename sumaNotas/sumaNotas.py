@@ -1,5 +1,5 @@
 # Crear una lista con notas numéricas
-mis_notas = [85.5, 92, 78, 88.5, 95, 82]
+mis_notas = [85.5, 90, 78, 88.5, 95, 82]
 
 # Inicializar variable para la suma
 suma_total = 0

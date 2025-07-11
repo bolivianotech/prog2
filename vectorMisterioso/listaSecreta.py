@@ -1,6 +1,5 @@
 # Lista secreta predefinida por el profesor
 lista_secreta = [7, 14, 3, 21, 9]
-
 # Instrucciones para los estudiantes
 print("🕵️‍♀️ ¡Bienvenidos al juego del Ahorcado Lógico con Listas!")
 print("Debes descubrir qué números hay en la lista secreta de 5 elementos.")
@@ -8,11 +7,9 @@ print("Pero no puedes verla directamente. En cada turno puedes hacer una 'pregun
 print("Ejemplos: len(lista_secreta), lista_secreta[2], lista_secreta[0] > 10")
 print("Cuando creas tener la lista completa, escribe: adivinar")
 print("--------------------------------------------------------------")
-
 # Bucle de interacción
 while True:
     instruccion = input(">>> Escribe tu instrucción (o 'adivinar'): ")
-
     if instruccion.strip().lower() == "adivinar":
         intento = input("🧠 Escribe tu intento de lista (separa por comas): ")
         try:

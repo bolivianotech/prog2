@@ -12,6 +12,6 @@ print("Usando insert:", numeros)  # [10, 15, 20]
 
 
 # Queremos duplicar cada número
-numeros = [1, 2, 3, 4]
+# numeros = [1, 2, 3, 4]
 duplicados = list(map(lambda x: x * 2, numeros))
 print("Usando map:", duplicados)  # [2, 4, 6, 8]
