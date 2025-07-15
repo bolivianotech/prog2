@@ -2,16 +2,18 @@ def ordenamiento_burbuja(lista):
     """
     Ordena una lista en orden ascendente utilizando el algoritmo de burbuja.
     Modifica la lista original (in-place) y también la retorna por conveniencia.
-    """
-    n = len(lista)  # Cantidad de elementos en la lista
+    6, 3, 8, 2, 5
 
-    for i in range(n - 1):  # Bucle exterior para las pasadas
+    """
+    n = len(lista)  # Cantidad de elementos en la lista 4
+    print (f"len(lista): {n}")
+    for i in range(n - 1):  # Bucle exterior para las pasadas      ... hasta 3
         hubo_intercambio = False  # Marca si hubo un intercambio en esta pasada
 
         # Bucle interior para las comparaciones e intercambios
         for j in range(n - 1 - i):  # Cada pasada evita revisar los últimos ya ordenados
             if lista[j] > lista[j + 1]:
-                # ¡Intercambio!
+                # ¡Intercambio! 8, 4 = 4, 8  || 8, 2 = 2, 8 || ==>
                 lista[j], lista[j + 1] = lista[j + 1], lista[j]
                 hubo_intercambio = True
 
