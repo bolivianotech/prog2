@@ -1,0 +1,72 @@
+-- Productos Disponibles ---
+--- Información del Producto ---
+Nombre: Smart TV 50 pulgadas
+Precio: $499.99
+Estado: Disponible
+-------------------------
+--- Información del Producto ---
+Nombre: Auriculares Bluetooth
+Precio: $75.50
+Estado: Disponible
+-------------------------
+--- Información del Producto ---
+Nombre: Teclado Mecánico
+Precio: $120.00
+Estado: Agotado
+-------------------------
+--- Información del Producto ---
+Nombre: Ratón Ergonómico
+Precio: $30.25
+Estado: Disponible
+-------------------------
+
+>>> Ana López va a comprar <<<
+'Smart TV 50 pulgadas' agregado al carrito.
+'Auriculares Bluetooth' agregado al carrito.
+Lo sentimos, 'Teclado Mecánico' no está disponible actualmente.
+'Ratón Ergonómico' agregado al carrito.
+
+--- Carrito de Ana López ---
+
+--- Contenido del Carrito ---
+1. Smart TV 50 pulgadas - $499.99
+2. Auriculares Bluetooth - $75.50
+3. Ratón Ergonómico - $30.25
+-------------------------
+
+--- Realizando compra para Ana López ---
+
+--- Contenido del Carrito ---
+1. Smart TV 50 pulgadas - $499.99
+2. Auriculares Bluetooth - $75.50
+3. Ratón Ergonómico - $30.25
+-------------------------
+Total a pagar: $605.74
+Compra realizada con éxito. ¡Gracias por tu compra, Ana López!
+El carrito de compras ha sido vaciado.
+-------------------------
+
+--- Carrito de Ana López ---
+El carrito de compras está vacío.
+
+>>> Juan Pérez va a comprar <<<
+'Auriculares Bluetooth' agregado al carrito.
+'Ratón Ergonómico' agregado al carrito.
+
+--- Carrito de Juan Pérez ---
+
+--- Contenido del Carrito ---
+1. Auriculares Bluetooth - $75.50
+2. Ratón Ergonómico - $30.25
+-------------------------
+
+--- Realizando compra para Juan Pérez ---
+
+--- Contenido del Carrito ---
+1. Auriculares Bluetooth - $75.50
+2. Ratón Ergonómico - $30.25
+-------------------------
+Total a pagar: $105.75
+Compra realizada con éxito. ¡Gracias por tu compra, Juan Pérez!
+El carrito de compras ha sido vaciado.
+-------------------------
