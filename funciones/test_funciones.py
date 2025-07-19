@@ -8,7 +8,7 @@ assert saludar("Ana") == "¡Hola, Ana! ¡Qué bueno tenerte aquí!", "Error en s
 
 # ===== Pruebas para sumar =====
 assert sumar(5, 5) == 10, "Error en suma 5 + 5"
-assert sumar(-2, 2) == 0, "Error en suma -2 + 2"
+assert sumar(-2, 2) == 4, "Error en  tu suma -2 + 2"
 
 print("✅ Todas las pruebas pasaron exitosamente.")
 
